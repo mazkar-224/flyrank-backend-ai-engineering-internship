@@ -32,7 +32,7 @@ This repository serves as a portfolio of work completed during a Backend AI Engi
 - Web scraping services
 - Background job processing systems
 - LLM-powered application workflows using **Claude API**, **Portkey**, and **RunPod**
-- Foundational AI fluency projects
+- AI fluency projects: no-code automation pipelines, MCP agents and an AI architecture copilot
 
 ---
 
@@ -41,11 +41,10 @@ This repository serves as a portfolio of work completed during a Backend AI Engi
 ```
 .
 ├── AI Fluency/
-│   ├── Project-01/
-│   ├── Project-02/
-│   ├── Project-03/
-│   ├── Project-04/
-│   └── Project-05/
+│   ├── AI-Research-Assistant End-to-End-No-Code-Automation-Pipeline/
+│   ├── FL-04-Agent-MCP-Build-Phase/
+│   ├── FL-06-ai-arch-copilot/
+│   └── FL-07-ai-arch-copilot/
 ├── Assignment-01-fastapi-backend/
 ├── Assignment-02-node-express-course-project/
 ├── Assignment-03-node-express-course-dockerized/
@@ -65,11 +64,10 @@ This repository serves as a portfolio of work completed during a Backend AI Engi
 
 | No.   | Project                            | Status       |
 |-------|-------------------------------------|--------------|
-| AI-01 | AI Fluency — Project 01             | ✅ Completed |
-| AI-02 | AI Fluency — Project 02             | ✅ Completed |
-| AI-03 | AI Fluency — Project 03             | ✅ Completed |
-| AI-04 | AI Fluency — Project 04             | ✅ Completed |
-| AI-05 | AI Fluency — Project 05             | ✅ Completed |
+| AI-01 | AI Research Assistant: end-to-end no-code automation pipeline | ✅ Completed |
+| FL-04 | AI Agent with MCP (build phase)     | ✅ Completed |
+| FL-06 | AI Architecture Copilot             | ✅ Completed |
+| FL-07 | AI Architecture Copilot (iteration) | ✅ Completed |
 | 01    | FastAPI Backend                     | ✅ Completed |
 | 02    | Node.js + Express Course Project    | ✅ Completed |
 | 03    | Node.js + Express (Dockerized)      | ✅ Completed |
@@ -101,8 +99,8 @@ Each assignment is self-contained. To run a specific project:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mazkar-224/Flyrank-internship-Backend-AI-Engineering-.git
-   cd Flyrank-internship-Backend-AI-Engineering-
+   git clone https://github.com/mazkar-224/flyrank-backend-ai-engineering-internship.git
+   cd flyrank-backend-ai-engineering-internship
    ```
 
 2. **Navigate to the assignment folder you want to run**
