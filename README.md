@@ -142,6 +142,8 @@ AI was used as a learning and productivity aid — not as a replacement for my o
 **Muhammad Azkar**
 BS Computer Science Graduate | Junior AI Engineer
 
+- Portfolio: [mazkar.vercel.app](https://mazkar.vercel.app)
+- LinkedIn: [in/mazkar](https://www.linkedin.com/in/mazkar/)
 - GitHub: [@mazkar-224](https://github.com/mazkar-224)
 
 ---
